@@ -1402,7 +1402,7 @@ hr.hr-heading {
 	}
 
 	.p-heading {
-		width: 46rem;
+		/*width: 46rem;*/
 		margin-right: auto;
 		margin-left: auto;
 	}
@@ -2103,5 +2103,9 @@ a.botaozap-rodape:hover {
 }
 
 div#card-cinzinha {
+    background-color: #f9f9f9;
+}
+
+div#quemsomos-ft {
     background-color: #f9f9f9;
 }
