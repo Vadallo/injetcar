@@ -2070,10 +2070,7 @@ body::-webkit-scrollbar-thumb {
 		padding-top: 2rem;
 	}
 	
-	div#quem-somos {
-	    padding-left: 13.2rem;
-	    padding-right: 13.2rem;
-	}
+
 }
 
 /*
@@ -2084,6 +2081,11 @@ div#sub-carrocel-menu {
 @media (min-width: 992px) {
 	div#sub-sub-menu-carrocel {
 		width: 35%;
+	}
+	
+		div#quem-somos {
+	    padding-left: 13.2rem;
+	    padding-right: 13.2rem;
 	}
 }
 
