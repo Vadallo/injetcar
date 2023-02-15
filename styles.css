@@ -2083,10 +2083,15 @@ div#sub-carrocel-menu {
 		width: 35%;
 	}
 	
-		div#quem-somos {
+        div#quem-somos {
 	    padding-left: 13.2rem;
 	    padding-right: 13.2rem;
 	}
+	
+	.col-lg-12 h6.card-title {
+            padding-left: 5rem;
+    	    padding-right: 5rem;
+}
 }
 
 div#quem-somos {
