@@ -2069,6 +2069,11 @@ body::-webkit-scrollbar-thumb {
 	.header .h1-large {
 		padding-top: 2rem;
 	}
+	
+	div#quem-somos {
+	    padding-left: 13.2rem;
+	    padding-right: 13.2rem;
+	}
 }
 
 /*
@@ -2110,7 +2115,3 @@ div#quemsomos-ft {
     background-color: #f9f9f9;
 }
 
-div#quem-somos {
-    padding-left: 13.2rem;
-    padding-right: 13.2rem;
-}
