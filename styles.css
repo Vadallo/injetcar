@@ -93,7 +93,7 @@ h5 {
 h6 {
 	color: #384653;
 	font-weight: 600;
-	font-size: 1rem;
+	font-size: 1.22rem;
 	line-height: 1.375rem;
 	font-family: "Poppins", sans-serif;
 }
@@ -2111,6 +2111,6 @@ div#quemsomos-ft {
 }
 
 div#quem-somos {
-    padding-left: 13rem;
-    padding-right: 13rem;
+    padding-left: 13.2rem;
+    padding-right: 13.2rem;
 }
